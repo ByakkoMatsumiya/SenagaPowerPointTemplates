@@ -14,19 +14,26 @@
 
 ## スクリーンショット
 ### タイトル
-![タイトル](images/slide1.PNG)
+|![タイトル](images/slide1.PNG)|
+|:---|
 ### アジェンダ
-![アジェンダ](images/slide2.PNG)
+|![アジェンダ](images/slide2.PNG)|
+|:---|
 ### コンテンツ
-![コンテンツ](images/slide3.PNG)
+|![コンテンツ](images/slide3.PNG)|
+|:---|
 ### 手順説明
-![手順説明](images/slide5.PNG)
+|![手順説明](images/slide5.PNG)|
+|:---|
 ### 使用フォントサイズ
-![使用フォントサイズ](images/slide7.PNG)
+|![使用フォントサイズ](images/slide7.PNG)|
+|:---|
 ### 使用カラー
-![使用カラー](images/slide9.PNG)
+|![使用カラー](images/slide9.PNG)|
+|:---|
 ### まとめ・あとがき
-![まとめ・あとがき](images/slide10.PNG)
+|![まとめ・あとがき](images/slide10.PNG)|
+|:---|
 
 <br>
 <br>
