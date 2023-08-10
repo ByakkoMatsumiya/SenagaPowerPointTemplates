@@ -19,3 +19,9 @@
 製作リクエストに関しましては、必ずしもご要望に沿えない場合がございますので、ご理解とご協力をお願い致します。<br>
 - [Twitter](https://twitter.com/Seyanaga) (@Seyanaga)
 - [E-mail](byakko.matsumiya.1213@gmail.com) (<span>byakko.matsumiya.1213</span>@gmail.com)
+
+<br>
+<br>
+
+### 更新履歴
+2023/08/10 リポジトリを作成
