@@ -22,23 +22,24 @@
 |![アジェンダ](images/slide2.PNG)|
 |:---|
 ### コンテンツ
-|![コンテンツ](images/slide3.PNG)|
+|![コンテンツ](images/slide4.PNG)|
 |:---|
 ### サブコンテンツ
-|![サブコンテンツ](images/slide4.PNG)|
+|![サブコンテンツ](images/slide5.PNG)|
 |:---|
 ### 手順説明
-|![手順説明](images/slide6.PNG)|
+|![手順説明](images/slide7.PNG)|
 |:---|
 ### 使用フォントサイズ
-|![使用フォントサイズ](images/slide8.PNG)|
+|![使用フォントサイズ](images/slide9.PNG)|
 |:---|
 ### 使用カラー
-|![使用カラー](images/slide10.PNG)|
+|![使用カラー](images/slide11.PNG)|
 |:---|
 
 <br>
 <br>
 
 ## 更新履歴
+2023/09/18 背景画像を追加＆アジェンダを編集しやすくしました
 2023/08/11 初版を公開

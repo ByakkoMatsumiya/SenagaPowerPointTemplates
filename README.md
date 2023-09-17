@@ -30,5 +30,6 @@ potx(PowerPointテンプレート)版の公開も考えていますが、実際�
 <br>
 
 ### 更新履歴
+2023/09/17 UmamusumeStyle(推奨フォント版)を改善(背景画像・アジェンダ)
 2023/08/11 SenagaStandard_ver.1、UmamusumeStyle(推奨フォント版、代替フォント版)を追加 <br>
 2023/08/10 リポジトリを作成
